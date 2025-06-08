@@ -1,0 +1,13 @@
+Package: ceap
+Title: Base de dados CEAP
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dalson", "Figueiredo", , "dalson.figueiredofo@ufpe.br", role = c("aut", "cre"))
+Description: Facilita acesso aos dados da Cota para o Exercício da Atividade Parlamentar (Ceap).
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true
